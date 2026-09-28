@@ -236,22 +236,6 @@ The operator provides on-site equipment in the form of: gaming PC, 240hz monitor
 ### 4.18.3. Players’ equipment
 Players must bring the following equipment: keyboard, mouse, mouse pad, headphones. 
 
-## 4.19. Open qualifier & Main stage seeding
-- Seed 1 vs Seed 16  
-- Seed 8 vs Seed 9  
-- Seed 4 vs Seed 13  
-- Seed 5 vs Seed 12  
-- Seed 3 vs Seed 14  
-- Seed 6 vs Seed 11  
-- Seed 2 vs Seed 15  
-- Seed 7 vs Seed 10  
-
-## 4.20. Playoffs seeding
-- Quarterfinal 1: Seed 1 vs Seed 8  
-- Quarterfinal 2: Seed 4 vs Seed 5  
-- Quarterfinal 3: Seed 2 vs Seed 7  
-- Quarterfinal 4: Seed 3 vs Seed 6  
-
 ---
 
 # SECTION V - Prize pool
