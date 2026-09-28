@@ -6,6 +6,7 @@
 |--------|-------------|
 | **Dates** | 30–31 October 2026 |
 | **Tournament operator** | BrzózkaTV |
+| **Tournament organizer** | BaseStack |
 | **Location** | BaseStack, Łódź, Poland |
 | **Format** | LAN |
 
@@ -45,6 +46,15 @@ The prize pool depends on the number of participating teams.
 | 12 | 10,000 PLN |
 | 16 | 12,500 PLN |
 | 20 | 15,000 PLN |
+
+
+
+Prize distribution
+The distribution of prize pool was determined as follows:
+- 1st place: **50%**  
+- 2nd place: **30%**  
+- 3rd place: **15%**  
+- 4th place: **5%**    
 
 ⚠️Compensation & Integrity 
 - Prize money only (no appearance fees) 
