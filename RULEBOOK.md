@@ -11,10 +11,10 @@ measures to preserve the integrity and fair-play spirit of the competition.
 
 ## 1.3. Collection of personal data
 The administrator of personal data collected for the purposes of the tournament  
-(i.e., data provided by participants for participation purposes) is the operator.  
+(i.e., data provided by participants for participation purposes) is the organizer.  
 
 Participants can request to validate, edit, or delete their data.  
-To make such a request please contact: **brzozka@spoko.pl**  
+To make such a request please contact: **blazej@basestack.gg**  
 with the email title **"personal data request"**.  
 
 Failure to provide data, or providing false data, may result in the inability  
@@ -31,6 +31,7 @@ The schedule of the tournament is specified in **Appendix 1** to the rulebook.
 | Name           | Role               | Email             | Discord   |
 |----------------|--------------------|-------------------|-----------|
 | Mateusz Brzózka|Tournament Director | brzozka@spoko.pl  | maashayt  |
+| Błażej Nakonieczny|Tournament organizer |  blazej@basestack.gg | wdlr.  |
 
 ## 1.7. Broadcast rights
 The administrator decides on the provision of broadcasting rights.  
@@ -149,17 +150,13 @@ Points system in Groups.
 - 4. Higher initial seed
 
 ## 4.6. Main stage
-During the main stage, the 8 highest ranked teams that signed up and 8 teams that 
-advanced from day 1 will play a double-elimination bracket, until 8 advancing teams 
-are selected. The opening and winner matches are Bo1 and elimination matches are 
-Bo3.  
 | Teams | Format | Days |
 |-------|--------|------|
 | 8 | 2 round-robin groups (x3 BO1) + single-elimination BO3 playoffs | 1 |
 | 9–10 | 2 round-robin groups (x3/4 BO1) + single-elimination BO3 playoffs | 2 |
 | 11–12 | 2 round-robin groups (x4/5 BO1) + single-elimination BO3 playoffs | 2 |
 | 13–16 | 4 round-robin groups (x2/3 BO1) + single-elimination BO3 playoffs | 2 |
-| 17–20 | 8 lowest-ranking teams play play ins: 2 round-robin groups (x3 BO1); top 2 of each group advance to the main stage. Main stage: 4 round-robin groups (x3 BO1) + single-elimination BO3 playoffs | 2 |
+| 17–20 | 8 lowest-ranking teams play play ins: 2 round-robin groups (x3 BO1); top 2 of each group advance to the main stage. Main stage: top12 vrs teams + 4 from First Stage(play ins) 4 round-robin groups (x3 BO1) + single-elimination BO3 playoffs | 2 |
 ## 4.7. Playoffs
 8 teams that advanced from the Main stage will play a single-elimination bracket. 
 The matches are Bo3.
