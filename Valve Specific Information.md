@@ -55,6 +55,7 @@ The distribution of prize pool was determined as follows:
 - 2nd place: **30%**  
 - 3rd place: **15%**  
 - 4th place: **5%**    
+There are no additional compensations for teams or players outside of the prize pool.
 
 ⚠️Compensation & Integrity 
 - Prize money only (no appearance fees) 
